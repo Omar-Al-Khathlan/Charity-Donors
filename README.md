@@ -54,3 +54,6 @@ The modified census dataset consists of approximately 32,000 data points, with e
 
 **Target Variable**
 - `income`: Income Class (<=50K, >50K)
+
+### Certification
+<p align="middle"><a href="https://github.com/Omar-Al-Khathlan/Charity-Donors/blob/master/Certificate/Udacity%20Certificate.pdf"><img src="https://github.com/Omar-Al-Khathlan/Charity-Donors/blob/master/Certificate/Udacity%20Certificate.png"/></a></p>
